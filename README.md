@@ -8,4 +8,4 @@ The notbooks are ordered:
 2. [Building on permutations](https://github.com/umbernhard/rlamath/blob/main/Building%20on%20permutations---the%20Central%20Limit%20Theorem.ipynb)
 3. [Auditing elections with hypothesis testing](https://github.com/umbernhard/rlamath/blob/main/Auditing%20Elections%20with%20Hypothesis%20Tests.ipynb)
 
-This is all still a work in progress, so things will be rough for a while. 
+This is all still a work in progress, so things will be rough for a while. I'm not an expert in statistics™, so a lot of this is me fumbling around in the dark to try to understand how it all works. In the event that that's useful to someone else, I hope this helps!
